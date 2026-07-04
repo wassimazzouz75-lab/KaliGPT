@@ -1,3 +1,7 @@
+travaile
+*
+,l,nlhiuhlkhsodho
+,p,mmj
 #!/bin/bash
 trap '[ -n "$SPIN_PID" ] && kill "$SPIN_PID" 2>/dev/null' EXIT
 USER_NAME=$(logname 2>/dev/null)
