@@ -23,14 +23,18 @@
 [![Forks](https://img.shields.io/github/forks/SudoHopeX/KaliGPT?label=Forks&color=28a745&style=for-the-badge&logo=github)](https://github.com/SudoHopeX/KaliGPT/network/members)
  
 <!-- Traffic & Clones (Dynamic JSON) -->
-![Clones](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SudoHopeX/KaliGPT/hackerx/clones_lifetime.json&query=$.message&label=Clones&color=A52A2A&style=for-the-badge&logo=git&logoColor=white)
-![Views](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SudoHopeX/KaliGPT/hackerx/views_lifetime.json&query=$.message&label=Views&color=800080&style=for-the-badge&logo=github&logoColor=white)
+![Clones](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SudoHopeX/KaliGPT/hackerx/clones_lifetime.json&query=$.message&label=Clones&color=A52A2A&style=for-the-bad[...]
+![Views](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SudoHopeX/KaliGPT/hackerx/views_lifetime.json&query=$.message&label=Views&color=800080&style=for-the-badge&[...]
 
 
 <!-- Project & Community Badges -->
 [![License](https://img.shields.io/badge/License-Open_Source-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Contributions Welcomed](https://img.shields.io/badge/Contributions-Welcomed-violet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/SudoHopeX/KaliGPT/issues/new)
 </div>
+
+<!-- find-skills badges -->
+[![View find-skills](https://img.shields.io/badge/view-find--skills-blue?logo=github)](https://github.com/wassimazzouz75-lab/KaliGPT/commit/11b16ca61e33af3be9637f1549eaf939d0c14e5b)  
+[![Open in VS Code Web](https://img.shields.io/badge/open-github.dev-brightgreen?logo=visual-studio-code)](https://github.dev/wassimazzouz75-lab/KaliGPT/blob/hackerx/find-skills.py)
 
 ------
 <!-- Feature & Support Badges -->
@@ -112,11 +116,11 @@ Read all Requirements [here](/requirements/globals.md)
 
 ## Disclaimer
 > [!WARNING]
-> :warning: HackerX (KaliGPT v1.3) is in active development, so don't expect it to work flawlessly. Instead, contribute by raising an issue or [sending a PR](https://github.com/SudoHopeX/KaliGPT/pulls).
+> :warning: HackerX (KaliGPT v1.3) is in active development, so don't expect it to work flawlessly. Instead, contribute by raising an issue or [sending a PR](https://github.com/SudoHopeX/KaliGPT/[...]
 >
-> Access to this library and the use of information, materials (or portions thereof), is **<u>not intended</u>, and is <u>prohibited</u>, where such access or use violates applicable laws or regulations**. By no means the authors encourage or promote the unauthorized tampering with running systems. This can cause serious human harm and material damages.
+> Access to this library and the use of information, materials (or portions thereof), is **<u>not intended</u>, and is <u>prohibited</u>, where such access or use violates applicable laws or regu[...]
 >
-> *By no means the authors of HackerX (KaliGPT v1.3) encourage or promote the unauthorized tampering with compute systems. Please don't use the source code in here for cybercrime. <u>Pentest for good instead</u>*. By downloading, using, or modifying this source code, you agree to the terms of the [`LICENSE`](LICENSE) and the limitations outlined in the [`DISCLAIMER`](DISCLAIMER) file.
+> *By no means the authors of HackerX (KaliGPT v1.3) encourage or promote the unauthorized tampering with compute systems. Please don't use the source code in here for cybercrime. <u>Pentest for [...]
 
 
 ##   
